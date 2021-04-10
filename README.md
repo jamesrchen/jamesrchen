@@ -18,7 +18,7 @@ Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 #### Programmes
 Swift Accelerator Programme (2021 - Ongoing) - [Here](https://www.swiftinsg.org/)
 
-SUTD Research Mentorship Programme (2021 - Ongoing) [Here](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach/Signature-Programmes/Research-Mentorship-Programme)
+SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach/Signature-Programmes/Research-Mentorship-Programme)
 
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
