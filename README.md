@@ -23,4 +23,4 @@ SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.ed
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
 #### Knowledge
-Kotlin, Java, Node.js, Python, MongoDB
+Kotlin, Java, Node.js, Python, MongoDB, Docker
