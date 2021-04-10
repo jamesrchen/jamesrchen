@@ -1,5 +1,7 @@
 # James Chen
 
+Student, Developer, NCC Cadet
+
 Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 
 ### 📈 Statistics
