@@ -18,7 +18,7 @@ Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 2020 (Secondary 2) - Micronclean Singapore Internship - Continuation
 
 #### Programmes
-Swift Accelerator Programme (2021 - Ongoing) - [Here](https://www.swiftinsg.org/)
+Apple/IMDA Swift Accelerator Programme (2021 - Ongoing) - [Here](https://www.swiftinsg.org/)
 
 SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach/Signature-Programmes/Research-Mentorship-Programme)
 
