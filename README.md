@@ -24,5 +24,10 @@ SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.ed
 
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
+#### Competitions
+Asia Math Engineering Challenge (Gold)
+
+Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award - [Here](https://science2025.devpost.com/)
+
 #### Knowledge
 Kotlin, Java, Node.js, Python, MongoDB, Docker
