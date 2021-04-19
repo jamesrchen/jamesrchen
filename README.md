@@ -5,8 +5,8 @@ Student 👨‍🎓, Developer 👨‍💻, NCC Cadet 🪖
 Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 
 ### 📈 Statistics
-![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api?username=unknownguy2002&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=dark)
-![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownguy2002&layout=compact&theme=dark)
+![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api?username=unknownguy2002&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=onedark)
+![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownguy2002&layout=compact&theme=onedark)
 
 ### 📚 Experience
 
