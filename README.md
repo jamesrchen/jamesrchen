@@ -32,7 +32,7 @@ Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award -
 #### Knowledge
 Kotlin, Java, Node.js, Python, MongoDB, Docker
 
-### Notable Projects
+### 🔬 Notable Projects
 
 #### YOURLS-Slack (A tinkertanker project to bridge slack and yourls)
 ![YOURLS-Slack (While at Tinkertanker)](https://github-readme-stats.vercel.app/api/pin/?username=tinkertanker&theme=dark&repo=YOURLS-Slack)
