@@ -31,3 +31,10 @@ Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award -
 
 #### Knowledge
 Kotlin, Java, Node.js, Python, MongoDB, Docker
+
+### Notable Projects
+
+#### YOURLS-Slack (A tinkertanker project to bridge slack and yourls)
+![YOURLS-Slack (While at Tinkertanker)](https://github-readme-stats.vercel.app/api/pin/?username=tinkertanker&theme=dark&repo=YOURLS-Slack)
+#### SJIRun (Social motivation webapp to promote running and walking, made for SJI PE Dept)
+![SJIRun (Made for SJI](https://github-readme-stats.vercel.app/api/pin/?username=unknownguy2002&theme=dark&repo=SJIRun)
