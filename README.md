@@ -39,4 +39,4 @@ Kotlin, Java, Node.js, Python, MongoDB, Docker
 #### YOURLS-Slack (A tinkertanker project to bridge slack and yourls)
 [![YOURLS-Slack (While at Tinkertanker)](https://github-readme-stats.vercel.app/api/pin/?username=tinkertanker&theme=dark&repo=YOURLS-Slack)](https://github.com/tinkertanker/YOURLS-Slack)
 #### SJIRun (Social motivation webapp to promote running and walking, made for SJI PE Dept)
-[![SJIRun (Made for SJI](https://github-readme-stats.vercel.app/api/pin/?username=jamesrchen&theme=dark&repo=SJIRun_old)](https://github.com/jamesrchen/SJIRun_old)
+[![SJIRun (Made for SJI](https://github-readme-stats.vercel.app/api/pin/?username=jamesrchen&theme=dark&repo=SJIRun-old)](https://github.com/jamesrchen/SJIRun-old)
