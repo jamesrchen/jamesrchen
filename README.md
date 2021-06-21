@@ -17,14 +17,18 @@ Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 
 2020 (Secondary 2) - Micronclean Singapore Internship - Continuation
 
-#### Programmes
+#### Programmes / Events
 Apple/IMDA Swift Accelerator Programme (2021 - Ongoing) - [Here](https://www.swiftinsg.org/)
 
 SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach/Signature-Programmes/Research-Mentorship-Programme)
 
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
-Cybersecurity Agency Youth Cyber Exploration Programme (2021)
+Cybersecurity Agency Youth Cyber Exploration Programme (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+
+YCEP Central Capture-the-Flag (CTF) (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+
+CYSummit (2021)
 
 #### Competitions
 Asia Math Engineering Challenge (Gold)
