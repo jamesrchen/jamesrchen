@@ -24,7 +24,7 @@ SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.ed
 
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
-Cybersecurity Agency Youth Cyber Exploration Programme (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+Cybersecurity Agency Youth Cyber Exploration Programme (2021) Distinction - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
 YCEP Central Capture-the-Flag (CTF) (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
