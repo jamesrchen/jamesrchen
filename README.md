@@ -26,7 +26,7 @@ SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
 Cybersecurity Agency Youth Cyber Exploration Programme (2021) Distinction - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
-YCEP Central Capture-the-Flag (CTF) (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+YCEP Central Capture-the-Flag (Group 1st Place) (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
 CYSummit (2021)
 
