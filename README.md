@@ -26,14 +26,16 @@ SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
 Cybersecurity Agency Youth Cyber Exploration Programme (2021) Distinction - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
-YCEP Central Capture-the-Flag (Group 1st Place) (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
-
 CYSummit (2021)
 
 #### Competitions
-Asia Math Engineering Challenge (Gold)
+Asia Math Engineering Challenge Gold
 
 Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award - [Here](https://science2025.devpost.com/)
+
+YCEP Central Capture-the-Flag Group 1st Place (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+
+CYSummit Secondary School Capture-the-Flag (2021)
 
 #### Knowledge
 Kotlin, Java, Node.js, Python, MongoDB, Docker
