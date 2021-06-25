@@ -37,6 +37,8 @@ YCEP Central Capture-the-Flag Group 1st Place (2021) - [Here](https://www.csa.go
 
 CYSummit Secondary School Capture-the-Flag (2021)
 
+JA Young Technopreneur Challenge (2021) - [Here](https://www.ja.org.sg/the-young-technopreneur-challenge-2021.html)
+
 #### Knowledge
 Kotlin, Java, Node.js, Python, MongoDB, Docker
 
