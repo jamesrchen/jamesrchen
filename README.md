@@ -33,9 +33,9 @@ Asia Math Engineering Challenge Gold
 
 Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award - [Here](https://science2025.devpost.com/)
 
-YCEP Central Capture-the-Flag Group 1st Place (2021) - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+CSA YCEP Central Capture-the-Flag (2021) 1st Place Team Category - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
-CYSummit Secondary School Capture-the-Flag (2021)
+CYSummit Secondary School Capture-the-Flag (2021) 8th Place - [Here](https://summit.cyberyouth.sg/)
 
 JA Young Technopreneur Challenge (2021) - [Here](https://www.ja.org.sg/the-young-technopreneur-challenge-2021.html)
 
