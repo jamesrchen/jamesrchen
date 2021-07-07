@@ -46,7 +46,7 @@ MySQL (2015) - Learnt with PHP (from PHP & MySQL for dummies)
 
 Node.js (2016) - Learnt to create web applications
 
-Python (2016) - Learnt to create utilities, web scrapers and RaspberryPi programs
+Python (2016) - Learnt to create utilities, web scrapers and Raspberry Pi programs
 
 MongoDB (2019) - Learnt to pair with Node.js for rapid prototyping and deployment
 
