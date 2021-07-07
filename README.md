@@ -39,8 +39,15 @@ CYSummit Secondary School Capture-the-Flag (2021) 8th Place - [Here](https://sum
 
 JA Young Technopreneur Challenge (2021) - [Here](https://www.ja.org.sg/the-young-technopreneur-challenge-2021.html)
 
-#### Knowledge
-Kotlin, Java, Node.js, Python, MongoDB, Docker
+#### Knowledge (In order of experience)
+PHP (2015) - Minor usage, first language learnt (from PHP & MySQL for dummies)
+MySQL (2015) - Learnt with PHP (from PHP & MySQL for dummies)
+Node.js (2016) - Learnt to create web applications
+Python (2016) - Learnt to create utilities, web scrapers and RaspberryPi programs
+MongoDB (2019) - Learnt to pair with Node.js for rapid prototyping and deployment
+Java (2020) - Learnt to develop native CLI utilities & GUI applications
+Kotlin (2020) - Learnt to build upon Java and experiment
+Docker (2020) - Learnt to manage and network multiple services and containerise existing FOSS applications and own projects
 
 ### 🔬 Notable Projects
 
