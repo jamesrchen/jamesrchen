@@ -1,7 +1,5 @@
 # James Chen
 
-Student 👨‍🎓, Developer 👨‍💻, NCC Cadet 🪖
-
 Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
 
 ### 📈 Statistics
@@ -24,6 +22,8 @@ SUTD Research Mentorship Programme (2021 - Ongoing) - [Here](https://www.sutd.ed
 
 SJI DSTA/AWS Signum Fidei Collaboration (2021 - Ongoing) - TBA
 
+Cybersecurity Agency Advanced Youth Cyber Exploration Programme (2021) Distinction - [Here](https://www.csa.gov.sg/Programmes/SGCyberTalent/SGCyberYouth/YCEP)
+
 Cybersecurity Agency Youth Cyber Exploration Programme (2021) Distinction - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
 
 CYSummit (2021)
@@ -40,21 +40,22 @@ CYSummit Secondary School Capture-the-Flag (2021) 8th Place - [Here](https://sum
 JA Young Technopreneur Challenge (2021) - [Here](https://www.ja.org.sg/the-young-technopreneur-challenge-2021.html)
 
 #### Knowledge (In order of experience)
-PHP (2015) - Minor usage, first language learnt (from PHP & MySQL for dummies)
 
-MySQL (2015) - Learnt with PHP (from PHP & MySQL for dummies)
+Docker (2020) - Learnt to manage and network multiple services and containerise existing FOSS applications and own projects
+
+Kotlin (2020) - Learnt to build upon Java and experiment
 
 Node.js (2016) - Learnt to create web applications
 
 Python (2016) - Learnt to create utilities, web scrapers, SL4A applications and Raspberry Pi programs
 
+PHP (2015) - Minor usage, first language learnt (from PHP & MySQL for dummies)
+
+MySQL (2015) - Learnt with PHP (from PHP & MySQL for dummies)
+
 MongoDB (2019) - Learnt to pair with Node.js for rapid prototyping and deployment
 
 Java (2020) - Learnt to develop native CLI utilities & GUI applications
-
-Kotlin (2020) - Learnt to build upon Java and experiment
-
-Docker (2020) - Learnt to manage and network multiple services and containerise existing FOSS applications and own projects
 
 ### 🔬 Notable Projects
 
