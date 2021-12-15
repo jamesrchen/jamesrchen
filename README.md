@@ -29,6 +29,8 @@ Cybersecurity Agency Youth Cyber Exploration Programme (2021) Distinction - [Her
 CYSummit (2021)
 
 #### Competitions
+CSA AYCEP Central Capture-the-Flag (2021) 2nd Place Individual Category - [Here](https://www.csa.gov.sg/programmes/sgcybertalent/sgcyberyouth/ycep)
+
 Asia Math Engineering Challenge Gold
 
 Science 2025: Towards Science Communication for SG60 (2018) Most Popular Award - [Here](https://science2025.devpost.com/)
