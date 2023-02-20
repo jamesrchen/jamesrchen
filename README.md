@@ -1,7 +1,19 @@
 # James Chen
+I'm a full-stack web and native developer who loves tinkering with new technologies.
+Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/).
 
-Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/)
+### 📚 Experience
+- Ministry of Home Affairs Internship (2022) / Policy development
+- Micronclean Singapore Internship (2021) / IoT systems for cleanroom instrumentation
+- Tinkertanker Internship (2018) / Real-time class management tools
 
+#### Programmes / Events
+- Humanities and Social Sciences Research Programme (2022)
+- Apple Swift Accelerator Programme (2021)
+- SUTD Research Mentorship Programme (2021)
+- Cybersecurity Agency AYCEP & YCEP (2021) / Distinction, 1st Place Team Category, 2nd Place Individual
+
+<!---
 ### 📈 Statistics
 ![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api?username=jamesrchen&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=onedark)
 ![Stats. If you see this, readme stats probably broke](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrchen&layout=compact&theme=onedark)
@@ -65,3 +77,4 @@ Java (2020) - Learnt to develop native CLI utilities & GUI applications
 [![YOURLS-Slack (While at Tinkertanker)](https://github-readme-stats.vercel.app/api/pin/?username=tinkertanker&theme=dark&repo=YOURLS-Slack)](https://github.com/tinkertanker/YOURLS-Slack)
 #### SJIRun (Social motivation webapp to promote running and walking, made for SJI PE Dept)
 [![SJIRun (Made for SJI](https://github-readme-stats.vercel.app/api/pin/?username=jamesrchen&theme=dark&repo=SJIRun-old)](https://github.com/jamesrchen/SJIRun-old)
+-->
