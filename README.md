@@ -4,6 +4,7 @@ Here is my [Linkedin](https://www.linkedin.com/in/jamesryanchen/).
 
 ### 📚 Experience
 - Ministry of Home Affairs Internship (2022) / Policy development
+- Dymon Asia (2022) / Angular + Websockets for reliable real-time monitoring
 - Micronclean Singapore Internship (2021) / IoT systems for cleanroom instrumentation
 - Tinkertanker Internship (2018) / Real-time class management tools
 
